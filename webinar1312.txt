@@ -1,0 +1,42 @@
+Webinar uc9 13/12
+
+prototipo para mobile 
+
+medidas pra cada tipo de disposivo
+
+tomar cuidado no desenvolvimento, uma delas é o menu 
+por exemplo, simplificar o menu para celular pela diferença de tamanho 
+
+o banner é outro, o tamanho que ele é apresentado no site em desktop nao ficaria muito legal no mobile 
+
+
+um exemplo é redução de tamanho e quebra de linha para diminuir a largura  de um banner , diminuir a quantidade de informação,
+sem perder conteudo .
+ vamos utilizar uma ferramenta chamada figma 
+
+
+conteudo- colocar somente as informações relevantes , diminuir a galeria pra um slide de fotos, entre outras coisas 
+
+reestrutura o footer(rodape)
+
+aplicar os conceitos de UX pensando na facilidade do usuario 
+
+
+exercicio -
+atividade online 1 
+desenvolver um layout de um rafe para desktop
+focar muito bem nesse layout para depois passar ele pra mobile
+
+criar o rascunho e postar na atividade online 1 
+
+isso sera desenvolvido no figma - 
+basicamente um prototipo de baixa qualidade 
+
+
+new desing file
+frame
+colocar largura de 1920
+
+fazer isso e entregar na atividade online 1 
+o prazo de entrega da atividade é ate essa quinta feira pra fazer a passagem pro mobile 
+ em vez de fazer no papel e caneta , fazer no word, paint , qualquer coisa que represente um rascunho 

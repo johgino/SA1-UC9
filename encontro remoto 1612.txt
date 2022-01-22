@@ -1,0 +1,36 @@
+aula 16/12
+como passar layout desktop para mobile e entregar o mobile no encontro remoto 1 .
+navebar
+header
+banner
+conteudo
+footer 
+
+entao, passaremos de 1920 pra 320 pixels
+passo a passo 
+
+comecar a montar o frame
+selecionar android e modificar a largura pra 320 pixels
+começar passando o navebar para o novo frame
+diminuir o tamanho das coisas , transformar o menu em paralelo em menu sanduiche 
+ir em ferramentas , pegar uma linha e fazer 3 barrinhas ou pegar a imagem pronta no google 
+crtl + d  - duplica objeto
+
+da pra agrupar objetos em botao direito e group select ou crlt+g
+o banner pode se transformar em imagem de fundo para melhor aproveitamento de espaço e nao ficar muito pequeno as imagens e a letra do banner 
+usar o grid pra determinar as margens 
+layout grid, clicar e mudar de grid pra columms
+
+montar o tablet 768p
+
+
+temos o desktop, o mobile e temos que passar isso pra versao tablet ,
+atividade obnline '1  - rascunho, paint e tals
+atividade online 2 - prototipo no figma
+encontro remoto 1 so o mobile
+encontro remoto 2, desktop mobile e tablet 
+apresentação - montar uma apresentação com os 3 prototipos no power point montando uma apresentação explicando tudo possivbel sobre a montagem do projeto.
+tudo descrito no card 
+site remove.bg
+
+
